@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1"
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1",
+        "LCD1in8": "github:waveshare/WSLCD1in8#84dc2f2c6fc3925dd3419110ac2af0afc1219c8e"
     },
     "files": [
         "main.blocks",
